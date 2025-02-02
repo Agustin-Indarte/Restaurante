@@ -15,11 +15,11 @@
 
 .custom-Navbar .nav-link,
 .custom-Navbar .nav-link.active {
-  color: #e75e16 !important; /* Color normal */
+  color: #e75e16 ; /* Color normal */
 }
 
 .custom-Navbar .nav-link:hover,
 .custom-Navbar .nav-link.active:hover {
-  color: white !important; /* Color al pasar el mouse */
+  color: white ; /* Color al pasar el mouse */
 }
 

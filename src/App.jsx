@@ -13,8 +13,8 @@ function App() {
       <Routes> 
         <Route path="/" element={<Home/>} /> {/* Ruta asociada a la pagina */}
         <Route path="/menu" element={<Menu/>} />
-        <Route path="/Abaut" element={<About/>} />
-        <Route path="/Contact" element={<Contact/>} />
+        <Route path="/about" element={<About/>} />
+        <Route path="/contact" element={<Contact/>} />
         
         <Route path="*" element={<NotFoundPage/>} /> {/* Cualquier otra ruta dirige al NotFoundPage */}
       </Routes>
