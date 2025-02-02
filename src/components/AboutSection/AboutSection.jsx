@@ -17,7 +17,7 @@ function AboutSection() {
                     Creemos que una buena parrilla es mucho más que carne a las brasas: es tradición, es encuentro y es sabor. Por eso, en La Leñita, cuidamos cada detalle para que disfrutes de platos preparados con ingredientes de primera calidad, cocinados con el auténtico espíritu de la parrilla argentina. Ya sea que nos visites para una cena en familia, una reunión con amigos o simplemente para degustar nuestras especialidades, te esperamos con el fuego encendido y el mejor sabor de Tucumán.
                     </p>
                     <Link to="/about">
-                        <button className='btn btn-outline-dark btn-lg'>
+                        <button className=' btn btn-outline-dark btn-lg'>
                             Más sobre Nosotros
                         </button>
                     </Link>
