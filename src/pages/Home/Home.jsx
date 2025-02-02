@@ -1,7 +1,5 @@
 import React from 'react'
-import HeaderHome from '../../components/HeaderHome/HeaderHome'
-import AboutSection from '../../components/AboutSection/AboutSection'
-import { MenuSection } from '../../components'
+import { HeaderHome,AboutSection, MenuSection,ImageGallery } from '../../components'
 
 function Home() {
   return (
@@ -11,6 +9,8 @@ function Home() {
       <AboutSection/>
 
       <MenuSection/>
+
+      <ImageGallery/>
     </div>
   )
 }

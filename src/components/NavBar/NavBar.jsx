@@ -8,7 +8,7 @@ function NavBar() {
       <Container>
         <Navbar.Brand>
           <Link to="/" className='navbar-brand'>
-          <img src="/public/LaLeñita_Logo.jpg" alt="Logo de La Leñita"/>
+          <img src="/public/LaLeñita_Logo.jpg" alt="Logo de La Leñita" className='img-flui'/>
           </Link>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls='basic-navbar-nav' />
