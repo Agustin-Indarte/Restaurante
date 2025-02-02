@@ -1,0 +1,25 @@
+.custom-Navbar{
+    background-color: #462a1c;
+}
+
+.navbar-brand img {
+    height: 70px;
+    width: auto;
+    border-style: none;
+  }
+
+.navbar-toggler-icon {
+    filter: invert(1); /* Invierte el color para que sea blanco */
+}
+
+
+.custom-Navbar .nav-link,
+.custom-Navbar .nav-link.active {
+  color: #e75e16 !important; /* Color normal */
+}
+
+.custom-Navbar .nav-link:hover,
+.custom-Navbar .nav-link.active:hover {
+  color: white !important; /* Color al pasar el mouse */
+}
+

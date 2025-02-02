@@ -2,8 +2,8 @@ import React from 'react'
 
 function Footer() {
   return (
-    <footer className='bg-body-tertiary'>
-        <p className='p-3 m-0 text-center'>Copyright @Made by Comision React3</p>
+    <footer style={{ backgroundColor: "#462a1c",}}>
+        <p className='p-3 m-0 text-center text-light'>Copyright @Made by Comision React3</p>
     </footer>
   )
 }
