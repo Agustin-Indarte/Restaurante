@@ -5,3 +5,6 @@ export {default as BtnMenu} from './BtnMenu/BtnMenu'
 export {default as AboutSection} from './AboutSection/AboutSection'
 export {default as MenuSection} from './MenuSection/MenuSection'
 export {default as ImageGallery} from './ImageGallery/ImageGallery'
+export {default as ContactInfo} from './ContactInfo/ContactInfo'
+export {default as MenuCard} from './MenuCard/MenuCard'
+

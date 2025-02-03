@@ -3,7 +3,7 @@ import './ImageGallery.css'
 function ImageGallery() {
     return (
         <div className="container py-5">
-            <h2 className="text-center fs-1 mb-5 text-uppercase">Galeria de Imagenes</h2>
+            <h2 className="text-center fs-1 mb-5 " style={{color:"#462a1c"}}>Galeria de Imagenes</h2>
             <div className="row">
                 <div className="col-md-4 px-2">
                     <div className="my-3">

@@ -1,5 +1,5 @@
 import React from 'react'
-import { HeaderHome,AboutSection, MenuSection,ImageGallery } from '../../components'
+import { HeaderHome,AboutSection, MenuSection,ImageGallery,ContactInfo} from '../../components'
 
 function Home() {
   return (
@@ -11,6 +11,8 @@ function Home() {
       <MenuSection/>
 
       <ImageGallery/>
+
+      <ContactInfo/>
     </div>
   )
 }
