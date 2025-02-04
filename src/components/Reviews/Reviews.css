@@ -1,0 +1,7 @@
+.reviews-section img{
+    width: 20%;
+    height: 120px;
+    object-fit: cover;
+    border-width: thin;
+    border-radius: 50%;    
+}
