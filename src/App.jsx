@@ -14,14 +14,12 @@ function App() {
         <Route path="/" element={<Home/>} /> {/* Ruta asociada a la pagina */}
         <Route path="/menu" element={<Menu/>} />
         <Route path="/about" element={<About/>} />
-        <Route path="/contact" element={<Contact/>} />
-        
+        <Route path="/contact" element={<Contact/>} />   
         <Route path="*" element={<NotFoundPage/>} /> {/* Cualquier otra ruta dirige al NotFoundPage */}
       </Routes>
 
-      <Footer/>
+      <Footer/> 
     </>
   )
 }
-
-export default App
+export default App 

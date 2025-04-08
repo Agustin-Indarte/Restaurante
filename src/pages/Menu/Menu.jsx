@@ -101,7 +101,7 @@ function Menu() {
 
             <MenuCard
                 menu={desayuno}
-                img="https://scontent.faep29-1.fna.fbcdn.net/v/t39.30808-6/292479053_4566854670084760_5495906188809353487_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEt-uc3ZRC0E4Qqn2aOlpbTn6ssOuwnTPmfqyw67CdM-YG24PSlYSZjgt3slp7pWnnPsLHsyMv8UqB9z-EgQNbY&_nc_ohc=BBS4n2qjBJYQ7kNvgFgmVfd&_nc_oc=AdgwHWAsJ3riH0d3WrTyC6KOG3kZLM1wj_hVULWquAH-WcddgC_SfqbuxBNZIzGYt80&_nc_zt=23&_nc_ht=scontent.faep29-1.fna&_nc_gid=AOaN5AOuB4b5JkCVO0qucle&oh=00_AYBHRGv_nEhVw5T43Xkewl0N2QvWyfWljxynxfsv94MteQ&oe=67A5E853"
+                img="https://images.pexels.com/photos/23158189/pexels-photo-23158189/free-photo-of-desayuno.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 tittle='Desayuno: Comenzá el día con un buen desayuno'
                 bg='bg-white'
                 text=''
@@ -109,7 +109,7 @@ function Menu() {
 
             <MenuCard
                 menu={almuerzo}
-                img="https://scontent.faep29-1.fna.fbcdn.net/v/t39.30808-6/278934225_4350382345065328_3031504667674692391_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGdzvbJK2xJFsLN8W5emuVA2snsaKT7irXayexopPuKtQFQ1K1jtzFzfxLN8jhTJUIBlSFeqIVxoV50huMvk83D&_nc_ohc=uX_HGWL35wEQ7kNvgGct_5t&_nc_oc=AdjkE59uKm1c6a0h5fbTT1vSn5tRLb0JNntfiaUzgw0NM9XtDj7cSZR9Sl49KsxDiK0&_nc_zt=23&_nc_ht=scontent.faep29-1.fna&_nc_gid=AF52RP1L46PkaRyimq4HToB&oh=00_AYBZZUU2C5vypAgC7FFnA4qocf7SV2lXSHjaABd1LBoGLA&oe=67A5FFCE"
+                img="https://images.pexels.com/photos/20670978/pexels-photo-20670978/free-photo-of-plato-mano-comida-mesa.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 tittle='Almuerzo: Energía y sabor para tu tarde'
                 bg='bg-dark '
                 text='text-white'
@@ -117,7 +117,7 @@ function Menu() {
 
             <MenuCard
                 menu={cena}
-                img="https://scontent.faep29-1.fna.fbcdn.net/v/t39.30808-6/283979950_4444608382309390_6871088184795274087_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGXuasDOxEbGyf_jDQ20jExe9sjaUeUtkp72yNpR5S2ShRQf4__1Bysib45EAu-aFiuCMwH8sSD6rkau33gm0ql&_nc_ohc=eNL091d5ULcQ7kNvgHvjL7U&_nc_oc=AdiTb0o_MIrwsOvwYwWRQpeWaaoS9oqF3oFjoLi5wFJQ9CfA6VD9ZXD8CRYlj1YdPRo&_nc_zt=23&_nc_ht=scontent.faep29-1.fna&_nc_gid=A-bKWBIuwOvNHeSN1_byY5J&oh=00_AYD0ugOvQH_thgF1UnZnatTje97dP1Ev5NRbVebL4t1J8w&oe=67A5ED7D"
+                img="https://images.pexels.com/photos/1251208/pexels-photo-1251208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 tittle='Cena: Cerrá el día con una cena inolvidable'
                 bg='bg-ligh '
                 text=''
@@ -125,7 +125,7 @@ function Menu() {
 
             <MenuCard
                 menu={postres}
-                img="https://scontent.faep29-2.fna.fbcdn.net/v/t39.30808-6/345189384_1028488211455601_6174061834785290663_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGBDMMYPHMxpQKYXa-NL8Ctdcdw6NwbYWJ1x3Do3BthYnEUAzePo00QeocmTEWLzb4IvGjF01H7kRwmlh8pC1dr&_nc_ohc=OLxBOC_eXssQ7kNvgFEKBMg&_nc_oc=Adj_BxIbtf20CMADYTSwyQkneCyNLJ9QeZcNQeRT0jtsIz0krt8TVtX4cGfhXmkmmmc&_nc_zt=23&_nc_ht=scontent.faep29-2.fna&_nc_gid=A-Zu3-TGZqQSwf7nscXKblk&oh=00_AYBKVMesuRLR-7S-dWPQm843rQH2czk6fonzy8WFGFhpSw&oe=67A5FF99"
+                img="https://images.pexels.com/photos/26890889/pexels-photo-26890889/free-photo-of-tiramisu-en-taza-de-chocolate.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 tittle='Postre: El toque dulce que merecés'
                 bg='bg-dark '
                 text='text-white'

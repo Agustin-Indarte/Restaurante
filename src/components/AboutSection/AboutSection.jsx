@@ -6,7 +6,7 @@ function AboutSection() {
         <div className='container my-5'>
             <div className='row'>
                 <div className='col-lg-6 d-flex justify-content-center d-none d-lg-flex'>
-                    <img src="https://scontent.faep29-1.fna.fbcdn.net/v/t39.30808-6/272926703_4123980364372195_3246054353507299554_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH37409N4mnPGeHoCNqDOAO-APAXIPxX4v4A8Bcg_Ffi4zI9wLlQu2mt4PwNO5mZT0JwcsOHDPnquLt7VeOEBG1&_nc_ohc=HeJQ9lXbLokQ7kNvgEKT_y2&_nc_oc=Adg06gWi3bkieGKNiJOUs97DzaopJf3bwJUlJGgNBmTankgpFX0cJ-Xjb7qnEc9r6C749aYM-rPgqSPZdkvVqIZq&_nc_zt=23&_nc_ht=scontent.faep29-1.fna&_nc_gid=AWulsbyHIrX0mfIpogLAMAZ&oh=00_AYCSxSUhUMkRATW94Rmwuyxy6RXOhJkzHQaOnisGWiWjlA&oe=67A5D089" alt="About img" className='img-fluid w-75 object-fit-cover' />
+                    <img src="https://scontent.faep29-2.fna.fbcdn.net/v/t1.6435-9/60298194_2375263372704940_4473464818266800128_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0b6b33&_nc_eui2=AeGXknpaJqgCp7aYKHo2Ra5g-B8qpWINyA_4HyqlYg3ID8N5aMGnFu5OQx04tGGviTbKOHRyR55mGglI5OMInwO4&_nc_ohc=HzsuiNCnnHgQ7kNvwGhcNqy&_nc_oc=Adkm1xGqH7muufvKPmvFwtI0dfS64ji7wp1xFEi_0RE_Ops9V_khIcXqrJGn5wC22G4&_nc_zt=23&_nc_ht=scontent.faep29-2.fna&_nc_gid=Np0fG-Qc5CjZrtKv1eQgQA&oh=00_AfHasHZ_C5Aom1m244tDx_2zQY2WpBq1mZc4HYOaj4EQkw&oe=681BDD1B" alt="About img" className='img-fluid w-75 object-fit-cover' />
                 </div>
                 <div className='col-lg-6 d-flex flex-column align-items-center justify-content-center'>
                     <h2 className='fs-1 mb-5 ' style={{color:"#462a1c"}}>Sobre Nosotros</h2>

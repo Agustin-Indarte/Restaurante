@@ -1,0 +1,26 @@
+
+.carousel-item {
+    margin-top: 100px;
+    max-height: 86vh; /* Ajusta según necesites */
+    position: relative; /* Asegura el posicionamiento relativo */
+  }
+
+  .carousel-caption {
+    background: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .age-rating {
+    background-color: #ffc107;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .category {
+    background-color: #007bff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+  }
