@@ -6,7 +6,7 @@ function ContactInfo() {
                     <div className='col-lg-6 d-flex flex-column align-items-center justify-content-center mb-5 mb-lg-0'>
                         <div className='d-flex flex-column align-items-center'>
                             <h2 className='fs-1 mb-3 fw-bold'style={{color:"#e75e16"}}>¿Dónde encontrarnos?</h2>
-                            <p className='mb-5'>Gral. José de San Martín 389, San Miguel de Tucumán, Tucumán</p>
+                            <p className='mb-5'>Gral. José de San Martín 389, San Miguel de Tucumán, Tucumán.</p>
                             <h3 style={{color:"#e75e16"}}>Horarios de Atención</h3>
                             <p className='m-0'>Lun - Dom: 12am - 13pm</p>
                             <p>Lun - Dom: 09pm - 12pm</p>
